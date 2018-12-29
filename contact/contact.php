@@ -1,5 +1,6 @@
 <?php
 // database connection code
+// $con = mysqli_connect('localhost', 'database_user', 'database_password','database');
 $con = mysqli_connect('localhost', 'root', '','db_connect');
 
 // get the post records
